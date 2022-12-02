@@ -23,7 +23,7 @@ type CreateUserFormData = {
   password_confirmation: string
 }
 
-const createUserFormSchema = yup.object().shape({
+const createUserFormSchema = yup.object({
   name: yup.string().required('Nome obrigatório'),
   email: yup.string().required('E-mail obrigatório').email('E-mail inválido'),
   password: yup
