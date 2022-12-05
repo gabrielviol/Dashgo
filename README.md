@@ -1,6 +1,6 @@
 ## Sobre o projeto
 
-O projeto foi baseado no 4º módulo da trilha ReactJS do Ignite. Além do que foi construído na [aula](https://github.com/GabriellArthur/DashGo), foi criado um banco de dados com o [Prisma](https://www.prisma.io), um CRUD de usuários e um sistema de autenticação baseado na [aula de autenticação e autorização](https://github.com/GabriellArthur/Autenticao-e-Autorizao-Reactjs).
+Neste projeto, desenvolvi um projeto de uma interface de um painel administrativo contendo um fluxo de autenticção, dashboard, listagem e cadastro de usuarios utilizando o Chakra UI no Next.js durante  trilha "Contruindo interfaaces do futuro" no Ignite
 
 ## 🚀 Como executar
 
